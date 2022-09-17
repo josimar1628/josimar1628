@@ -1,5 +1,5 @@
 ## Olá sou Josimar Alves, sou graduado em Sistema de Informação e pós graduado em Engenharia de software para dispositivos móveis!
-Possuo experiência na área financeira, pois atualmente trabalho em uma instituição financeira e possuo a cetificação CPA-10, já possui cerca de 15 anos na área.
+Tenho experiência na área financeira, pois atualmente trabalho em uma instituição financeira e possuo a cetificação CPA-10, já possui cerca de 15 anos na área.
 Inglês nível básico.
 Sempre gostei da área de tecnologia e atualmente resolvi aprender e desenvolver a habilidade de programador, pois acredito que sempre devemos estar desenvolvendo novas habilidades.
 
